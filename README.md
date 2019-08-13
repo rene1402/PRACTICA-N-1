@@ -1,7 +1,11 @@
 ######APELLIDOS Y NOMBRES: SANGALLI CHINO RENE 
+
 ######CARRERA: INGENIERIA DE SISTEMAS
+
 ######MATERIA: TECNOLÓGIAS EMERGENTES II
+
 ######C.I.: 10902015 LP
+
 --------------------------------------------------------------------------------
 ##PRACTICA N° #1	
 #SISTEMAS EMPRESARIALES
